@@ -1,0 +1,15 @@
+.foto{
+	border-radius: 50%;
+	width: 300px;
+}
+
+.linktree{
+	position: center;
+	padding-top: 50px;
+	width: 300px;
+}
+
+br {
+  border: 1px solid black;
+  line-height: 300%;
+}
